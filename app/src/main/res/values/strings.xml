@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">calculaFlex</string>
+    <string name="app_name">calculateFlex</string>
+    <string name="input_precoalcool">Price of alcohol</string>
+    <string name="input_precogasolina">Gas price</string>
+    <string name="btn_calculaflex">Calculate Flex</string>
+    <string name="btn_limpar">Clean</string>
 </resources>
