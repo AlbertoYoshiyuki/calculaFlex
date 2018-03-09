@@ -5,4 +5,5 @@
     <string name="input_precogasolina">Preço da gasolina</string>
     <string name="btn_calculaflex">Calcular Flex</string>
     <string name="btn_limpar">Limpar</string>
+    <string name="texto_resultado">O combustivel mais em conta é:</string>
 </resources>
